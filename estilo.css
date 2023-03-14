@@ -1,0 +1,30 @@
+
+
+h1 {
+	font-family:cursive;
+	color: black;
+	font-size: 60px;
+}
+
+body {
+	text-align: center;
+	background-color: #DAB6E2 ;
+}
+
+img	{
+	float: center;
+	width: 150px;
+	height: 150px;	
+}
+
+a {
+	font-family: Brush Script MT;
+	color: black;
+	background-color: #D9AFE3;
+	font-size: 25px;
+}
+
+.pie {
+	width: 98%;
+	border: 20px SOLID #DAC4DF;
+}
